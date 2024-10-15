@@ -2,6 +2,7 @@
 
 ### :wave: I am a student at LAB University of Applied Science. I use this GitHub profile to save all my working.
 
+- 👋 My name is Quang Thong Le
 - :writing_hand: I am currently learning IT at LAB
 - :point_right: How to reach me:
      + Email: lequangthong1996@gmail.com
